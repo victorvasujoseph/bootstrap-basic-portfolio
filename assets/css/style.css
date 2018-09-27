@@ -1,48 +1,47 @@
-.custom-nav-bar{
-    /*width:990px;*/
-
-}
-
-.nav-bar-name{
+.nav-bar-name {
     background: #4aaaa5;
-    height:100px;
+    height: 100px;
     color: #ffffff;
     font-size: 32px;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-#a-tag-about,#a-tag-contact,#a-tag-portfolio {
+#a-tag-about, #a-tag-contact, #a-tag-portfolio {
     text-decoration: none;
     color: #afafaf;
 }
-
-#container-2{
-    height:50px;
+#a-tag-about:hover,#a-tag-contact:hover,#a-tag-portfolio:hover {
+    color: #6e6e6e;
+    font-size: 17px;
+}
+#container-2 {
+    height: 50px;
     background-image: url("../images/circles-light.png");
 }
 
-#left-div, #right-div{
+#left-div, #right-div {
     background-image: url("../images/circles-light.png");
 }
 
-#profile-pic{
-    width:300px;
-    height:300px;
+#container-4 {
+    background-color: #4aaaa5;
+    height: 10px;
 }
 
-/*.btn {*/
-    /*background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');*/
-    /*background-color: white;*/
-    /*width:50px;*/
-    /*height:50px;*/
-/*}*/
+#container-footer {
+    height: 100px;
+    background-color: #666666;
+}
 
-/*.dropdown-item{*/
-    /*text-align:center;*/
-/*}*/
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 20px;
+    color: #777777;
+    line-height: 30px;
+}
 
-hr{
-    padding:0;
-    margin:0;
-    background-color:#cccccc;
+hr {
+    padding: 0;
+    margin: 0;
+    background-color: #cccccc;
 }
