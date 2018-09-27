@@ -1,0 +1,48 @@
+.custom-nav-bar{
+    /*width:990px;*/
+
+}
+
+.nav-bar-name{
+    background: #4aaaa5;
+    height:100px;
+    color: #ffffff;
+    font-size: 32px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#a-tag-about,#a-tag-contact,#a-tag-portfolio {
+    text-decoration: none;
+    color: #afafaf;
+}
+
+#container-2{
+    height:50px;
+    background-image: url("../images/circles-light.png");
+}
+
+#left-div, #right-div{
+    background-image: url("../images/circles-light.png");
+}
+
+#profile-pic{
+    width:300px;
+    height:300px;
+}
+
+/*.btn {*/
+    /*background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');*/
+    /*background-color: white;*/
+    /*width:50px;*/
+    /*height:50px;*/
+/*}*/
+
+/*.dropdown-item{*/
+    /*text-align:center;*/
+/*}*/
+
+hr{
+    padding:0;
+    margin:0;
+    background-color:#cccccc;
+}
