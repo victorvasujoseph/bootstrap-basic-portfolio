@@ -33,6 +33,23 @@
     background-color: #666666;
 }
 
+#h2-about-me, #h2-contact-me,#h2-portfolio{
+    /*border: 2px solid darkmagenta;*/
+    color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+h3{
+    /* border: 2px solid green; */
+    width:200px;
+    height: 35px;;
+    margin-bottom:5px;
+    text-align: center;
+    background-color:#4aaaa5;
+    color:white;
+    line-height: 40px;
+}
+
 p {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 20px;
@@ -45,3 +62,19 @@ hr {
     margin: 0;
     background-color: #cccccc;
 }
+
+.img-size{
+    width:200px;
+    height:200px;
+
+}
+
+.button{
+    background-color:#4aaaa5;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
